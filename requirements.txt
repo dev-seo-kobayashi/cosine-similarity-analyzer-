@@ -2,6 +2,6 @@ streamlit
 sentence-transformers
 scikit-learn
 pandas
-newspaper3k
 lxml
 cssselect
+trafilatura
